@@ -33,9 +33,6 @@
   5. Select the `.vsix` file you created and install it. 
 ### *Or you can directly download from this github repo `dcode-theme-0.0.2.vsix`*
 ## A colour theme for my positron ide channel, dcode.
-I've created this theme which is based off the colours used on my YouTube channel, **dcode**.
-
-You'll find greens, yellows, blues and a touch of *italic* text.
 
 ## Screenshot
 ![alt text](https://github.com/yihunzeleke/dcode-theme-positron-r/blob/master/screenshots/dcode-theme-positron-ide.png "dcode Theme Screenshot")
